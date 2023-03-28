@@ -1,7 +1,7 @@
 <!Doctype html>
 <html lang="en">
 <!-- Hello I'm a commit from GitHub -->
-<!-- Hello I'm a commit from my Local Devide -->
+<!-- Hello I'm a commit from my Local Device -->
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
