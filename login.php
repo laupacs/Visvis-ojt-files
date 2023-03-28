@@ -1,5 +1,6 @@
 <!Doctype html>
 <html lang="en">
+<!-- Hello I'm a commit from GitHub -->
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
